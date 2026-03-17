@@ -1,0 +1,2 @@
+/model_zoo/team11_Super03.pkl：https://drive.google.com/file/d/17sCjlRoOJjlCoCNw6V-uBTje-rY6dxM8/view?usp=drive_link
+/model_zoo/team11_Super03/halfDecoder.ckpt：https://drive.google.com/file/d/1_JfN5q_UdE8rRb9BaXU3oDOqxpNll3vZ/view?usp=drive_link
