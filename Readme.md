@@ -5,6 +5,7 @@ Before running the project, please ensure that your environment meets the follow
 This is essential for the core functionality and model loading:
 
 pip install -r requirements.txt
+
 pip install pytorch-lightning   # Required for loading model checkpoints
 
 ## 2. Optional (For Online Model Downloading)
